@@ -1,5 +1,11 @@
 # How to stake Ethereum completely on your own (Ubuntu / Erigon / Lighthouse / Grafana / Prometheus / Goerli)
 
+## Video tutorial
+
+A video version of this tutorial is available on YouTube: https://youtu.be/23mx4wvE2_4
+
+[![Ethereum Staking Made Easy](EthereumStakingMadeEasy.png)](https://youtu.be/23mx4wvE2_4)
+
 ## Hardware
 
 - Intel NUC (Intel NUC 10 Performance BXNUC10I5FNKN2)
